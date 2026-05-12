@@ -1,0 +1,9 @@
+venv/
+logs/
+__pycache__/
+
+.env
+*.json
+*.xlsx
+*.zip
+*.pfx
